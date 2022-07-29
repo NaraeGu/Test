@@ -7,12 +7,12 @@ import React, { memo } from "react";
 import TabBtn from "./buttons/TabBtn";
 import styled from "styled-components";
 
-import TravelIcon from "../assets/icon/pin.png";
+// import TravelIcon from "../assets/icon/pin.png";
 import HotelIcon from "../assets/icon/hotel.png";
 import FoodIcon from "../assets/icon/food.png";
 import TravelIconAct from "../assets/icon/pin_active.png";
-import HotelIconAct from "../assets/icon/hotel_active.png";
-import FoodIconAct from "../assets/icon/food_active.png";
+// import HotelIconAct from "../assets/icon/hotel_active.png";
+// import FoodIconAct from "../assets/icon/food_active.png";
 
 const TabAreaContainer = styled.div`
     box-sizing: border-box;
